@@ -5,3 +5,4 @@ def exibir_informacoes(nome, idade, cidade="Desconhecida"):
     print("Cidade: ", cidade)
     
 exibir_informacoes("Davi", 18, "Curitiba")
+exibir_informacoes("José", 30)
